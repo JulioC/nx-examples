@@ -2,6 +2,9 @@
   "affected": {
     "defaultBase": "master"
   },
+  "plugins": [
+    "@nx-example/nx-workspace-plugin"
+  ],
   "npmScope": "nx-example",
   "tasksRunnerOptions": {
     "default": {
